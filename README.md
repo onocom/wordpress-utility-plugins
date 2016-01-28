@@ -1,2 +1,2 @@
 # wordpress-utility-plugins
-WordPressのサイトでよく使うオリジナルのプラグインたち
+WordPressのサイトで使うオリジナルのプラグインたち
